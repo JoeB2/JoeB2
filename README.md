@@ -2,7 +2,7 @@
 - 👀 I’m interested in: Maules, ESP32 (pio & idf), SQL Server, BDRs
 - 🌱 I’m currently learning: C++ STL
 - 💞️ I’m looking to collaborate on: Selfish Hobbies - of almost any moral kind
-- 📫 How to reach me: joebelson@hotmail.com
+- 📫 How to reach me: x11724@hotmail.com
 
 <!---
 JoeB2/JoeB2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
