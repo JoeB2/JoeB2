@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JoeB2 aka (joebel)
 - 👀 I’m interested in: Maules, ESP32 (pio & idf), SQL Server, BDRs
-- 💞️ Always up for "Selfish Hobby" collaberation
+- 💞️ Always up for "Selfish Hobby" collaboration
 - 📫 x11724@hotmail.com
 
 <!---
